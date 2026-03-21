@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Hello World</title>
-    <link rel="icon" type="image/x-icon" href="/images/favicon.png">
+    <link rel="icon" type="image/x-icon" href="favicon.png">
 </head>
 <body>
     <h1>Hello, World!</h1>
