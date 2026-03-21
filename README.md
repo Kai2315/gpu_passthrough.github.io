@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>Hello World</title>
-    <link rel="icon" type="image/x-icon" href="favicon.png">
+  <title>My Page Title</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.png">
 </head>
 <body>
-    <h1>Hello, World!</h1>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
 </body>
 </html>
